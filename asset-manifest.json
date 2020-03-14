@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tmu-planer-live/static/css/main.223eda5e.chunk.css",
+    "main.js": "/tmu-planer-live/static/js/main.dab659aa.chunk.js",
+    "main.js.map": "/tmu-planer-live/static/js/main.dab659aa.chunk.js.map",
+    "runtime-main.js": "/tmu-planer-live/static/js/runtime-main.6f43d328.js",
+    "runtime-main.js.map": "/tmu-planer-live/static/js/runtime-main.6f43d328.js.map",
+    "static/css/2.823a9121.chunk.css": "/tmu-planer-live/static/css/2.823a9121.chunk.css",
+    "static/js/2.bc1d58d0.chunk.js": "/tmu-planer-live/static/js/2.bc1d58d0.chunk.js",
+    "static/js/2.bc1d58d0.chunk.js.map": "/tmu-planer-live/static/js/2.bc1d58d0.chunk.js.map",
+    "index.html": "/tmu-planer-live/index.html",
+    "precache-manifest.9f31be64b06af5cddd7567fb34c6eda9.js": "/tmu-planer-live/precache-manifest.9f31be64b06af5cddd7567fb34c6eda9.js",
+    "service-worker.js": "/tmu-planer-live/service-worker.js",
+    "static/css/2.823a9121.chunk.css.map": "/tmu-planer-live/static/css/2.823a9121.chunk.css.map",
+    "static/css/main.223eda5e.chunk.css.map": "/tmu-planer-live/static/css/main.223eda5e.chunk.css.map",
+    "static/js/2.bc1d58d0.chunk.js.LICENSE.txt": "/tmu-planer-live/static/js/2.bc1d58d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f43d328.js",
+    "static/css/2.823a9121.chunk.css",
+    "static/js/2.bc1d58d0.chunk.js",
+    "static/css/main.223eda5e.chunk.css",
+    "static/js/main.dab659aa.chunk.js"
+  ]
+}
