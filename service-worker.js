@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tmu-planer-live/precache-manifest.01ed19f5e3aaf021027e2af7f25dc0ab.js"
+  "/tmu-planer-live/precache-manifest.f385bd0d8b2b020549a0139c6f767912.js"
 );
 
 self.addEventListener('message', (event) => {
